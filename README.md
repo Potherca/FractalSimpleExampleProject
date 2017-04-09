@@ -7,7 +7,7 @@ This project demonstrates a very basic implementation based on [the simple examp
 -------
 
 The easiest way to walk through this example project is to run `git clone
-https://github.com/potherca/FractalSimpleExampleProject.git` on your local
+https://github.com/potherca-abandoned/FractalSimpleExampleProject.git` on your local
 development environment and then open the repo folder in your favorite text
 editor or IDE.
 
